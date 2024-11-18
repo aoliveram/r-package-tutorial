@@ -1,2 +1,2 @@
 # r-package-tutorial
-First R package. 
+Something from the R Package book.
